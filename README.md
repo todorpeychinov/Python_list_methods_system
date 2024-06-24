@@ -7,6 +7,14 @@
 ## ℹ️ About The Project 
 This is a console-based application that allows users to perform various operations on a list. The application present a menu of options, each corresponding to a different list method. Users can choose an option by entering a number, and the application execute the corresponding list method.
 
+## 💻 Tech stack:
+
+[![Tech stack](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
+ 
+
 ## ✅ Functions that the system provide: 
 * Add an element at the end of the list. 
 * Add elements of a list (or any iterable), to the end of the current list.
